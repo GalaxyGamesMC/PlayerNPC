@@ -1,0 +1,5 @@
+name: PlayerNPC
+version: 0.0.1-alpha
+api: 5.0.0
+main: issac47\PlayerNPC\PlayerNPC
+author: issac47
